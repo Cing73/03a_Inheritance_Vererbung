@@ -20,6 +20,7 @@ public class App {
         output("Fellfarbe: " + tomcat.getStringAttributes("#furColor"));
         output("Alter: " + tomcat.getAge());
         
+        
     }
 
     public static void output(String inputStr) {
